@@ -1,0 +1,267 @@
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDangNhap.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDauSach.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKLoaiDG.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKPhieuMuon.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKPhieuThu.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKPhieuTra.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKTacGia.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKTaiKhoan.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKTheLoai.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDocGia.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDoiMatKhau.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmKetNoi.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmMain.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmNhapSach.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmQuyDinh.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmTK_SachTheoTL.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmTK_TraSachTre.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmXoaSach.resources
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\BUS.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevComponents.DotNetBar2.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Utils.v14.1.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DTO.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\MetroFramework.Design.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\MetroFramework.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\MetroFramework.Fonts.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DAO.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Data.v14.1.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\BUS.pdb
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DTO.pdb
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevComponents.DotNetBar2.xml
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Utils.v14.1.xml
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DAO.pdb
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Data.v14.1.xml
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DATA_THUVIEN.mdf
+F:\Dropbox\QuanLyThuVien\QuanLyThuVien\bin\Debug\DATA_THUVIEN_log.ldf
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DATA_THUVIEN.mdf
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DATA_THUVIEN_log.ldf
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\BUS.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevComponents.DotNetBar2.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Utils.v14.1.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DTO.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\MetroFramework.Design.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\MetroFramework.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\MetroFramework.Fonts.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DAO.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Data.v14.1.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\BUS.pdb
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DTO.pdb
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevComponents.DotNetBar2.xml
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Utils.v14.1.xml
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DAO.pdb
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Data.v14.1.xml
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDangNhap.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDauSach.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKLoaiDG.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKPhieuMuon.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKPhieuThu.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKPhieuTra.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKTacGia.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKTaiKhoan.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKTheLoai.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDocGia.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDoiMatKhau.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmKetNoi.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmMain.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmNhapSach.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmQuyDinh.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmTK_SachTheoTL.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmTK_TraSachTre.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmXoaSach.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+J:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\BUS.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevComponents.DotNetBar2.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Utils.v14.1.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DTO.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\MetroFramework.Design.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\MetroFramework.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\MetroFramework.Fonts.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DAO.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Data.v14.1.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\BUS.pdb
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DTO.pdb
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevComponents.DotNetBar2.xml
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Utils.v14.1.xml
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DAO.pdb
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Data.v14.1.xml
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDangNhap.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDauSach.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKLoaiDG.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKPhieuMuon.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKPhieuThu.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKPhieuTra.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKTacGia.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKTaiKhoan.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKTheLoai.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDocGia.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDoiMatKhau.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmKetNoi.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmMain.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmNhapSach.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmQuyDinh.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmTK_SachTheoTL.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmTK_TraSachTre.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmXoaSach.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+F:\Google Drive\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\BUS.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevComponents.DotNetBar2.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DTO.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DAO.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Data.v14.1.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\BUS.pdb
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DTO.pdb
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevComponents.DotNetBar2.xml
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Utils.v14.1.xml
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DAO.pdb
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Data.v14.1.xml
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDangNhap.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDauSach.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKLoaiDG.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKPhieuMuon.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKPhieuThu.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKPhieuTra.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKTacGia.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKTaiKhoan.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDKTheLoai.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDocGia.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmDoiMatKhau.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmKetNoi.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmMain.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmNhapSach.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmQuyDinh.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmTK_SachTheoTL.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmTK_TraSachTre.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\UI.frmXoaSach.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache

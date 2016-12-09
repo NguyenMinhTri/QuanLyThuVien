@@ -1,0 +1,10 @@
+F:\Dropbox\QuanLyThuVien\DTO\bin\Debug\DTO.dll
+F:\Dropbox\QuanLyThuVien\DTO\bin\Debug\DTO.pdb
+F:\Dropbox\QuanLyThuVien\DTO\obj\Debug\DTO.dll
+F:\Dropbox\QuanLyThuVien\DTO\obj\Debug\DTO.pdb
+F:\Dropbox\QuanLyThuVien\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\DTO\bin\Debug\DTO.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\DTO\bin\Debug\DTO.pdb
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\DTO\obj\Debug\DTO.dll
+F:\Quản Lý Thư Viện-20161005T103313Z\Quản Lý Thư Viện\Source Code\QuanLyThuVien\DTO\obj\Debug\DTO.pdb
